@@ -1,0 +1,13 @@
+﻿// int a = Convert.ToInt32(Console.ReadLine());
+int a = 1;
+int b = 2;
+int c = 6;
+int d = 8;
+int e = 4;
+int max_num = a;
+if(b > max_num) max_num = b;
+if(c > max_num) max_num = c;
+if(d > max_num) max_num = d;
+if(e > max_num) max_num = e;
+Console.Write("max = ");
+Console.WriteLine(max_num);

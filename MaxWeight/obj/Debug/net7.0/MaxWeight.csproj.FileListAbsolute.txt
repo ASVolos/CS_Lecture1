@@ -1,0 +1,14 @@
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\obj\Debug\net7.0\MaxWeight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\obj\Debug\net7.0\MaxWeight.AssemblyInfoInputs.cache
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\obj\Debug\net7.0\MaxWeight.AssemblyInfo.cs
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\obj\Debug\net7.0\MaxWeight.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\bin\Debug\net7.0\MaxWeight.exe
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\bin\Debug\net7.0\MaxWeight.deps.json
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\bin\Debug\net7.0\MaxWeight.runtimeconfig.json
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\bin\Debug\net7.0\MaxWeight.dll
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\bin\Debug\net7.0\MaxWeight.pdb
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\obj\Debug\net7.0\MaxWeight.dll
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\obj\Debug\net7.0\refint\MaxWeight.dll
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\obj\Debug\net7.0\MaxWeight.pdb
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\obj\Debug\net7.0\MaxWeight.genruntimeconfig.cache
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\MaxWeight\obj\Debug\net7.0\ref\MaxWeight.dll
