@@ -1,0 +1,14 @@
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\bin\Debug\net7.0\Sum.exe
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\bin\Debug\net7.0\Sum.deps.json
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\bin\Debug\net7.0\Sum.runtimeconfig.json
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\bin\Debug\net7.0\Sum.dll
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\bin\Debug\net7.0\Sum.pdb
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\obj\Debug\net7.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\obj\Debug\net7.0\Sum.AssemblyInfoInputs.cache
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\obj\Debug\net7.0\Sum.AssemblyInfo.cs
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\obj\Debug\net7.0\Sum.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\obj\Debug\net7.0\Sum.dll
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\obj\Debug\net7.0\refint\Sum.dll
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\obj\Debug\net7.0\Sum.pdb
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\obj\Debug\net7.0\Sum.genruntimeconfig.cache
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Sum\obj\Debug\net7.0\ref\Sum.dll
