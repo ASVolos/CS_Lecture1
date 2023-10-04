@@ -1,0 +1,14 @@
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\bin\Debug\net7.0\Treugolnik.exe
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\bin\Debug\net7.0\Treugolnik.deps.json
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\bin\Debug\net7.0\Treugolnik.runtimeconfig.json
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\bin\Debug\net7.0\Treugolnik.dll
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\bin\Debug\net7.0\Treugolnik.pdb
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\obj\Debug\net7.0\Treugolnik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\obj\Debug\net7.0\Treugolnik.AssemblyInfoInputs.cache
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\obj\Debug\net7.0\Treugolnik.AssemblyInfo.cs
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\obj\Debug\net7.0\Treugolnik.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\obj\Debug\net7.0\Treugolnik.dll
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\obj\Debug\net7.0\refint\Treugolnik.dll
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\obj\Debug\net7.0\Treugolnik.pdb
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\obj\Debug\net7.0\Treugolnik.genruntimeconfig.cache
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\Treugolnik\obj\Debug\net7.0\ref\Treugolnik.dll
