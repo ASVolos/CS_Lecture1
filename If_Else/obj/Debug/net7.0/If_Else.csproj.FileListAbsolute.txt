@@ -1,0 +1,14 @@
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\bin\Debug\net7.0\If_Else.exe
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\bin\Debug\net7.0\If_Else.deps.json
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\bin\Debug\net7.0\If_Else.runtimeconfig.json
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\bin\Debug\net7.0\If_Else.dll
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\bin\Debug\net7.0\If_Else.pdb
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\obj\Debug\net7.0\If_Else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\obj\Debug\net7.0\If_Else.AssemblyInfoInputs.cache
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\obj\Debug\net7.0\If_Else.AssemblyInfo.cs
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\obj\Debug\net7.0\If_Else.csproj.CoreCompileInputs.cache
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\obj\Debug\net7.0\If_Else.dll
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\obj\Debug\net7.0\refint\If_Else.dll
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\obj\Debug\net7.0\If_Else.pdb
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\obj\Debug\net7.0\If_Else.genruntimeconfig.cache
+D:\Study\GeekBrains\My\Semester1\C#\Lecture1\Exampel1\If_Else\obj\Debug\net7.0\ref\If_Else.dll
